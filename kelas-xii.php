@@ -45,13 +45,13 @@
             
             <div class="input-group input-group-newsletter">
              
-             <!--  <audio controls id="player" preload="auto" autoplay loop>
+              <audio controls id="player" preload="auto" autoplay loop>
             <source src="mp3/sampai-jumpa.mp3" type="audio/mp3">
-    </audio> -->
-
-     <audio controls id="player" preload="auto" autoplay loop>
-            <source src="mp3/masa-sma.mp3" type="audio/mp3">
     </audio>
+
+     <!-- <audio controls id="player" preload="auto" autoplay loop>
+            <source src="mp3/masa-sma.mp3" type="audio/mp3">
+    </audio> -->
               
           <!--    <div class="input-group-append">
                 <button onclick="myFunction()" class="btn btn-primary btn-lg">KELAS XII IPA</button>
