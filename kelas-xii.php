@@ -41,7 +41,12 @@
             <h1 class="mb-3">CBT SMAN 1 GORONTALO</h1>
 			<h3 class="mb-1"><b>KELAS XII </b></h3>
             <p class="mb-5">Silahkan Pilih Sesuai Jurusan Kalian </p>
+            
+            
             <div class="input-group input-group-newsletter">
+              <audio controls id="player" preload="auto" autoplay loop>
+            <source src="mp3/sampai-jumpa.mp3" type="audio/mp3">
+    </audio>
               
           <!--    <div class="input-group-append">
                 <button onclick="myFunction()" class="btn btn-primary btn-lg">KELAS XII IPA</button>
