@@ -68,7 +68,7 @@ function myFunction() {
 </script>
 			   <div class="row ">
 <div class="col-xl-8 col-md-4 col-sm-4 col-auto my-md-0 mt-5 order-sm-1 order-3 align-self-end">
-                         <h4 class="social text-muted mb-0 pb-0 bold-text"> <span class="mx-2"><i class="fa fa-facebook" aria-hidden="true"></i></span> <span class="mx-2"><i class="fa fa-linkedin-square" aria-hidden="true"></i></span> <span class="mx-2"><i class="fa fa-twitter" aria-hidden="true"></i></span> <span class="mx-2"><i class="fa fa-instagram" aria-hidden="true"></i></span> </p><small class="rights"><font color="white"><span>Support By</span> <br>TIM IT SMAN 1 GORONTALO</font></small>
+                       <h4 class="social text-muted mb-0 pb-0 bold-text"> <span class="mx-2"><i class="fa fa-facebook" aria-hidden="true"></i></span> <span class="mx-2"><i class="fa fa-linkedin-square" aria-hidden="true"></i></span> <span class="mx-2"><i class="fa fa-twitter" aria-hidden="true"></i></span> <span class="mx-2"><i class="fa fa-instagram" aria-hidden="true"></i></span> </p><small class="rights"><font color="white"><span>Support By</span> <br><a href="https://tim-it.sma1gorontalo.sch.id">TIM IT SMAN 1 GORONTALO</a></font></small>
                      </div>
 					 </div>
             </div>
